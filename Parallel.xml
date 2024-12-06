@@ -1,0 +1,20 @@
+
+<suite name="Funtional tests suite" parallel="methods" thread-count="2">
+<parameter name="browser" value="edge"/>
+  <test name="UI automation">
+  
+
+  
+  
+    <classes>
+       <class name="com.synechron.testng.Parameterseg"/>
+       
+    </classes>
+  
+  
+  
+  
+  </test>
+  
+  
+</suite>
